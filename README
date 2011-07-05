@@ -1,0 +1,8 @@
+The goal of this project is to create a site that will easily "mass translate" a single word or phrase into mutliple languages.
+
+PACKAGES:
+ node
+ express
+ request
+
+
